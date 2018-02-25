@@ -18,19 +18,19 @@
 
 插件包名称 :使用快捷键 , 功能说明 
 
-	1.ChineseLocalizations : 无        , 汉化包  
-	2.Emmet                : ?? , 一种快速编写html/css的方法
-	3.BracketHighlighter   : 无 ，匹配大括号
-	4.Autoprefixer         : 无 , 私有前缀补齐
-	5.HTML-CSS-JS Prettify : ctrl+shift+h , 快速格式化html css js
-	6.Colorpicker          : ctrl+shift+c , 使用一个取色器改变颜色
-	7.SyncedSidebarBg      : 无 ，同步侧边栏底色为编辑窗口底色
-	8.AutoFileName         : 无 ，文件路径补全，/即可看到文件名
-	9.SideBarEnhancements  : 无 ，增强侧边栏 我也不知道有什么用
-	10.SublimeCodeIntel    : 无 , JavaScript自动补全,需要将Preferences -> Package Setting -> SublimeCodeIntel -> Setting Default  中JavaScript类中的JQuery 替换为 JavaScript 如下图所示
-	![JS配置图1]（./IMG/Sublime_2018022501.png）
-	![JS配置图2]（./IMG/Sublime_2018022502.png）
+1.ChineseLocalizations : 无        , 汉化包  
+2.Emmet                : ?? , 一种快速编写html/css的方法  
+3.BracketHighlighter   : 无 ，匹配大括号  
+4.Autoprefixer         : 无 , 私有前缀补齐  
+5.HTML-CSS-JS Prettify : ctrl+shift+h , 快速格式化html css js  
+6.Colorpicker          : ctrl+shift+c , 使用一个取色器改变颜色  
+7.SyncedSidebarBg      : 无 ，同步侧边栏底色为编辑窗口底色  
+8.AutoFileName         : 无 ，文件路径补全，/即可看到文件名  
+9.SideBarEnhancements  : 无 ，增强侧边栏 我也不知道有什么用  
+10.SublimeCodeIntel    : 无 , JavaScript自动补全,需要将Preferences -> Package Setting -> SublimeCodeIntel -> Setting Default  中JavaScript类中的JQuery 替换为 JavaScript 如下图所示
+![JS配置图1](./IMG/Sublime_2018022501.png)
 
+![JS配置图2](./IMG/Sublime_2018022502.png)
 
 
 
