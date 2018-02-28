@@ -32,11 +32,3 @@
 
 ![JS配置图2](./IMG/Sublime_2018022502.png)
 
-
-
-
-Name | Academy | score 
-- | :-: | -: 
-Harry Potter | Gryffindor| 90 
-Hermione Granger | Gryffindor | 100 
-Draco Malfoy | Slytherin | 90

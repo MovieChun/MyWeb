@@ -1,4 +1,4 @@
-
+//alett(document);
 var  printf = function (str) {
 	document.getElementById('result').innerHTML = "输出结果:" + str;
 };

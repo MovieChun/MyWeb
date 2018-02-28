@@ -1,5 +1,8 @@
 <!doctype html>
-<!--网页为:  file:///D:/ME/study/M20180224/MyWebTest/HTML/First.html-->
+<!--网页为:  
+	file:///D:/ME/study/M20180224/MyWebTest/HTML/First.html
+-->
+
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -9,6 +12,7 @@
 	<body>
 		<h1 align="center">Study</h1><!--这种是双标记-->
 		<hr size="1" color="#CCCCCC" /><!--这个是单标记-->
+		<img src="../SOURCE/IMG_蒲公英.jpg" alt="图片" title="没见过蒲公英呀？" width="400" vspace="200" hspace="200" align="left" />
 		<p>
 			<input type="text" id="InStr" />
 			<br />
@@ -17,7 +21,15 @@
 		</p>
 		<p id="result">123</p>
 		<div id="D1">这是一块测试区域</div>
-		<script src="../JS/temp.js"></script>
+
+		<script>
+			document.getElementById('button1').onclick = function (){
+				var f = document.getElementById('InStr').value;
+				var D1 = document.getElementById('D1');
+				D1.innerHTML += '<p>增加一行</p>';
+
+			};
+		</script>
 	</body>
 
 
